@@ -1,0 +1,50 @@
+﻿[
+  {
+    "name": "floorWood",
+    "solid": 0
+  },
+  {
+    "name": "floorCeramic",
+    "solid": 0
+  },
+  {
+    "name": "wall",
+    "solid": 1
+  },
+  {
+    "name": "doorWood",
+    "solid": 0
+  },
+  {
+    "name": "bed",
+    "solid": 0
+  },
+  {
+    "name": "plant",
+    "solid": 0
+  },
+  {
+    "name": "chair",
+    "solid": 0
+  },
+  {
+    "name": "table",
+    "solid": 0
+  },
+  {
+    "name": "rack",
+    "solid": 0
+  },
+  {
+    "name": "key",
+    "solid": 0
+  },
+  {
+    "name": "exit",
+    "solid": 0
+  },
+  {
+    "name": "air",
+    "solid": 0
+  }
+]
