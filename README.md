@@ -1,8 +1,5 @@
-# Touch
+# 开发环境
 
-Perceive with your sense of touch and escape
+.net | 10.0
 
-## Operation
-WASD Move
-E    Interact
-Q    Quit
+c#   | 13
